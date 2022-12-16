@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574570643 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q4a_leaves_count] leaves count\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1574570253 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4a_leaves_count] leaves count\map_bst.h
+	<iostream>
+
+1668263301 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4a_leaves_count] leaves count\student.h
+	<algorithm>
+	<iostream>
+

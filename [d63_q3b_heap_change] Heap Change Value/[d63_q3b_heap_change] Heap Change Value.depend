@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603706303 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_heap_change] heap change value\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1603706172 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_heap_change] heap change value\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666589610 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_heap_change] heap change value\student.h
+	<assert.h>
+

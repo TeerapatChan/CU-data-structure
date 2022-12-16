@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666710816 source:d:\coding\github\cp-eng\year 2\data-structure\[d65_q1b_sparse_vector] 4 sparse vector\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

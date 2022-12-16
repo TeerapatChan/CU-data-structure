@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663250536 source:d:\coding\github\cp-eng\year 2\data-structure\[d65_q1a_multiply] member multiply\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

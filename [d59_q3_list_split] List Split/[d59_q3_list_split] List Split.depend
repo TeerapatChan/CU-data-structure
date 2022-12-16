@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668074982 source:d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_list_split] list split\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1666358482 d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_list_split] list split\list.h
+	<stdexcept>
+	<iostream>
+
+1668075544 d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_list_split] list split\student.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542725996 source:d:\coding\github\cp-eng\year 2\data-structure\[d61_q2_imbalance] imbalance\main.cpp
+	<iostream>
+	"map_bst.h"
+
+1542725522 d:\coding\github\cp-eng\year 2\data-structure\[d61_q2_imbalance] imbalance\map_bst.h
+	<iostream>
+	"student.h"
+
+1668266003 d:\coding\github\cp-eng\year 2\data-structure\[d61_q2_imbalance] imbalance\student.h
+	"map_bst.h"
+

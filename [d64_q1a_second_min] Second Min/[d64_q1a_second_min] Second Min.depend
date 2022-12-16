@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661743636 source:d:\coding\github\cp-eng\year 2\data-structure\[d64_q1a_second_min] second min\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

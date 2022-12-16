@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562079294 source:d:\coding\github\cp-eng\year 2\data-structure\[d60_q3_lremove_all] list remove all\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1635787583 d:\coding\github\cp-eng\year 2\data-structure\[d60_q3_lremove_all] list remove all\list.h
+	<stdexcept>
+	<iostream>
+
+1668077341 d:\coding\github\cp-eng\year 2\data-structure\[d60_q3_lremove_all] list remove all\student.h
+

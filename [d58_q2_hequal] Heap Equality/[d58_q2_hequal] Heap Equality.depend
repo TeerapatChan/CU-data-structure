@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459219048 source:d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_hequal] heap equality\main.cpp
+	<stdexcept>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1459217882 d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_hequal] heap equality\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666526928 d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_hequal] heap equality\student.h
+

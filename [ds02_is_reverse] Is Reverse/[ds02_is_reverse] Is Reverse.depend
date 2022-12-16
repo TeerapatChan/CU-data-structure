@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663491910 source:d:\coding\github\cp-eng\year 2\data-structure\[ds02_is_reverse] is reverse\main.cpp
+	<stdexcept>
+	<iostream>
+

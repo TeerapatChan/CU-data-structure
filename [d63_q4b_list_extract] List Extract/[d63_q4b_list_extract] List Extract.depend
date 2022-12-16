@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1668930135 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_list_extract] list extract\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1635788299 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_list_extract] list extract\list.h
+	<stdexcept>
+	<iostream>
+
+1668932091 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_list_extract] list extract\student.h
+	<algorithm>
+

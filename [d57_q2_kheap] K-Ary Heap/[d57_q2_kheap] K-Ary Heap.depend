@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1427808804 source:d:\coding\github\cp-eng\year 2\data-structure\[d57_q2_kheap] k-ary heap\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+
+1427808558 d:\coding\github\cp-eng\year 2\data-structure\[d57_q2_kheap] k-ary heap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666519617 d:\coding\github\cp-eng\year 2\data-structure\[d57_q2_kheap] k-ary heap\student.h
+	"priority_queue.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1424795418 source:d:\coding\github\cp-eng\year 2\data-structure\[d57_q1_postfix] evaluate postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1661938710 d:\coding\github\cp-eng\year 2\data-structure\[d57_q1_postfix] evaluate postfix\student.h
+	<vector>
+	<bits/stdc++.h>
+

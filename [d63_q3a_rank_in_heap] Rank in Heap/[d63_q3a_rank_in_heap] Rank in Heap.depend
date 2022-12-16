@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603644286 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q3a_rank_in_heap] rank in heap\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1603648214 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3a_rank_in_heap] rank in heap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666554425 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3a_rank_in_heap] rank in heap\student.h
+	"priority_queue.h"
+

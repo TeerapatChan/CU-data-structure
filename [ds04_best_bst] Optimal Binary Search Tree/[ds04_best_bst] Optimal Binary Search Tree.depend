@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668879293 source:d:\coding\github\cp-eng\year 2\data-structure\[ds04_best_bst] optimal binary search tree\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661935777 source:d:\coding\github\cp-eng\year 2\data-structure\[d60_q0_v2m] vector to map\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

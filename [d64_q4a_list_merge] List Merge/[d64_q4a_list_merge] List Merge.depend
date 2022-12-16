@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637203314 source:d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_list_merge] list merge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1637238663 d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_list_merge] list merge\list.h
+	<stdexcept>
+	<iostream>
+
+1668768122 d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_list_merge] list merge\student.h
+	<algorithm>
+

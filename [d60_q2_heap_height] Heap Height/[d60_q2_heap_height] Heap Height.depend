@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1509903825 source:d:\coding\github\cp-eng\year 2\data-structure\[d60_q2_heap_height] heap height\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<stack>
+	"priority_queue.h"
+	"student.h"
+
+1509839456 d:\coding\github\cp-eng\year 2\data-structure\[d60_q2_heap_height] heap height\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666540284 d:\coding\github\cp-eng\year 2\data-structure\[d60_q2_heap_height] heap height\student.h
+	<stdio.h>
+	"priority_queue.h"
+	<iostream>
+

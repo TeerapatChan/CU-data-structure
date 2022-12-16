@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1430239570 source:d:\coding\github\cp-eng\year 2\data-structure\[d57_q3_shift] shift\main.cpp
+	<iostream>
+	<assert.h>
+	"list.h"
+	<string>
+
+1430239555 d:\coding\github\cp-eng\year 2\data-structure\[d57_q3_shift] shift\list.h
+	<stdexcept>
+	<iostream>
+	"shift.h"
+
+1668068187 d:\coding\github\cp-eng\year 2\data-structure\[d57_q3_shift] shift\shift.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637080688 source:d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_subtree] subtree extract\main.cpp
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<set>
+
+1637080679 d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_subtree] subtree extract\map_bst.h
+	<iostream>
+
+1668623949 d:\coding\github\cp-eng\year 2\data-structure\[d64_q4a_subtree] subtree extract\student.h
+	<algorithm>
+	<vector>
+	"map_bst.h"
+

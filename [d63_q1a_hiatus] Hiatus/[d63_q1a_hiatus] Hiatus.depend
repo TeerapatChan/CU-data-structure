@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661844437 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q1a_hiatus] hiatus\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+

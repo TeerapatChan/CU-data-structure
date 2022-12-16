@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493743094 source:d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_bst_split] bst split\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"map_bst.h"
+	"student.h"
+	<algorithm>
+
+1493743036 d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_bst_split] bst split\map_bst.h
+	<iostream>
+
+1668244599 d:\coding\github\cp-eng\year 2\data-structure\[d59_q3_bst_split] bst split\student.h
+

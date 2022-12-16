@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666513830 source:d:\coding\github\cp-eng\year 2\data-structure\[d57_q2_heap_order2] heap ordering 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<string>
+	<stdexcept>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662458173 source:d:\coding\github\cp-eng\year 2\data-structure\[d60_q0_zipcode] zipcode\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<map>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666695889 source:d:\coding\github\cp-eng\year 2\data-structure\[ds03_heap_erase] heap erase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

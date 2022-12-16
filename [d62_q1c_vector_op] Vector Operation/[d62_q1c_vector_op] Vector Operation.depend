@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660742650 source:d:\coding\github\cp-eng\year 2\data-structure\[d62_q1c_vector_op] vector operation\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

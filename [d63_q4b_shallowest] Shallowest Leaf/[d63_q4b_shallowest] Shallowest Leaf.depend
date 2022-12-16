@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606127208 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_shallowest] shallowest leaf\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1606127190 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_shallowest] shallowest leaf\map_bst.h
+	<iostream>
+
+1668621653 d:\coding\github\cp-eng\year 2\data-structure\[d63_q4b_shallowest] shallowest leaf\student.h
+	<algorithm>
+	<iostream>
+

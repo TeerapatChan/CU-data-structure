@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668587920 source:d:\coding\github\cp-eng\year 2\data-structure\[ds04_playlist] playlist management\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

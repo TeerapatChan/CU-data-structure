@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461682910 source:d:\coding\github\cp-eng\year 2\data-structure\[d58_q3_unary] count unary\main.cpp
+	<vector>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+
+1461682616 d:\coding\github\cp-eng\year 2\data-structure\[d58_q3_unary] count unary\map_bst.h
+	<iostream>
+
+1668169633 d:\coding\github\cp-eng\year 2\data-structure\[d58_q3_unary] count unary\student.h
+

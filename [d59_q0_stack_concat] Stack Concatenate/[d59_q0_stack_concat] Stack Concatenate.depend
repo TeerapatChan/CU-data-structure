@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661751222 source:d:\coding\github\cp-eng\year 2\data-structure\[d59_q0_stack_concat] stack concatenate\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

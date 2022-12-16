@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459275569 source:d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_custom] custom order\main.cpp
+	<iostream>
+	<vector>
+	"song.h"
+
+1666526205 d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_custom] custom order\song.h
+	<iostream>
+	<queue>
+	<string>
+	<vector>
+	"priority_queue.h"
+	<tuple>
+
+1459277820 d:\coding\github\cp-eng\year 2\data-structure\[d58_q2_custom] custom order\priority_queue.h
+	<stdexcept>
+	<iostream>
+

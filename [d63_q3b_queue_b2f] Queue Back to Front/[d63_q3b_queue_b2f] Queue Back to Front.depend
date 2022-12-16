@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603852577 source:d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_queue_b2f] queue back to front\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1603781770 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_queue_b2f] queue back to front\queue.h
+	<stdexcept>
+	<iostream>
+
+1665307269 d:\coding\github\cp-eng\year 2\data-structure\[d63_q3b_queue_b2f] queue back to front\student.h
+	<algorithm>
+	<iostream>
+
